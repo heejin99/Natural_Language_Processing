@@ -1,0 +1,12 @@
+# log_file=/content/drive/MyDrive/adc-chatbot-master/models/char_yo_ban/log_1627416907
+# Start step 0, lr 0.0001, Tue Jul 27 20:15:14 2021
+  step 500 lr 0.0001 step-time 3.85s wps 0.66K ppl 48.13 gN 101.55 bleu 0.00, accuracy 0.00, Tue Jul 27 20:47:54 2021
+  step 1000 lr 0.0001 step-time 3.82s wps 0.67K ppl 9.60 gN 108.06 bleu 0.00, accuracy 0.00, Tue Jul 27 21:20:22 2021
+  step 1500 lr 0.0001 step-time 3.82s wps 0.66K ppl 3.32 gN 95.71 bleu 0.00, accuracy 0.00, Tue Jul 27 21:52:55 2021
+  step 2000 lr 0.0001 step-time 3.76s wps 0.68K ppl 1.98 gN 73.78 bleu 0.00, accuracy 0.00, Tue Jul 27 22:24:55 2021
+  step 2500 lr 0.0001 step-time 3.77s wps 0.68K ppl 1.50 gN 51.74 bleu 0.00, accuracy 0.00, Tue Jul 27 22:57:00 2021
+  step 3000 lr 0.0001 step-time 3.78s wps 0.67K ppl 1.28 gN 35.72 bleu 0.00, accuracy 0.00, Tue Jul 27 23:29:15 2021
+  step 3500 lr 0.0001 step-time 3.77s wps 0.67K ppl 1.16 gN 20.76 bleu 0.00, accuracy 0.00, Wed Jul 28 00:01:26 2021
+  step 4000 lr 0.0001 step-time 3.74s wps 0.68K ppl 1.09 gN 15.15 bleu 0.00, accuracy 0.00, Wed Jul 28 00:33:21 2021
+  step 4500 lr 0.0001 step-time 3.75s wps 0.68K ppl 1.06 gN 9.68 bleu 0.00, accuracy 0.00, Wed Jul 28 01:05:28 2021
+  step 5000 lr 0.0001 step-time 3.79s wps 0.67K ppl 1.04 gN 7.99 bleu 0.00, accuracy 0.00, Wed Jul 28 01:37:55 2021
